@@ -1,3 +1,3 @@
 # CianTest
-JAVA + MAVEN
+JAVA + MAVEN + JUnit
 Testing search engine on cian.ru resourse
